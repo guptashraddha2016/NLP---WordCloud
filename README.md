@@ -6,3 +6,7 @@
   1. NlP File(Jupyter Notebook)
   2. README
   3. WordCloud Image
+  
+ # Libraries
+   used python 3 to run with neccessary libraries of NLTK, ngrams , matplotlib and wordcloud.
+   
