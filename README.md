@@ -5,4 +5,4 @@
 # File Description
   1. NlP File(Jupyter Notebook)
   2. README
-  3. Image
+  3. WordCloud Image
