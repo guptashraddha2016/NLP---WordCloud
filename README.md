@@ -12,4 +12,4 @@
    
   # Explaination 
    A word cloud is a visual representation of text for text processing, which shows the most frequent word with bigger and bolder letters, and with different colors.
-   The smaller size of the word the lesser it’s important.
+  
