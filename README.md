@@ -8,7 +8,7 @@
   3. WordCloud Image
   
  # Libraries
-   used python 3 to run with neccessary libraries of NLTK, ngrams , matplotlib and wordcloud.
+   Used python 3 to run with neccessary libraries of NLTK, ngrams , matplotlib and wordcloud.
    
 # Explaination 
    A word cloud is a visual representation of text for text processing, which shows the most frequent word with bigger and bolder letters, and with different colors.
